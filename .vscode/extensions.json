@@ -1,0 +1,28 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "DominicVonk.parameter-hints",
+    "ryu1kn.partial-diff",
+    "quicktype.quicktype",
+    "Gruntfuggly.todo-tree",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "Rubymaniac.vscode-paste-and-indent",
+    "PKief.material-icon-theme",
+    "naumovs.color-highlight",
+    "vincaslt.highlight-matching-tag",
+    "oderwat.indent-rainbow",
+    "pnp.polacode",
+    "fisheva.eva-theme",
+    "qezhu.gitlink",
+    "eamodio.gitlens",
+    "GitLab.gitlab-workflow",
+    "Atlassian.atlascode",
+    "orepor.color-tabs-vscode-ext",
+    "tusaeff.vscode-typescript-destructure-plugin",
+    "kenhowardpdx.vscode-gist",
+    "rvest.vs-code-prettier-eslint",
+    "dbaeumer.vscode-eslint"
+  ],
+  "unwantedRecommendations": []
+}
